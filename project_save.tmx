@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="ES"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES">
+        <seg>Caracteristicas&lt;t0/&gt; Principales</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171112T211406Z" creationid="usuario" creationdate="20171112T211406Z">
+        <seg>Key &lt;t0/&gt; Features</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Caracteristicas&lt;t0/&gt; Técnicas</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171112T211646Z" creationid="usuario" creationdate="20171112T211623Z">
+        <seg>Tech Specs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Contraste</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171111T224924Z" creationid="usuario" creationdate="20171111T224924Z">
+        <seg>Contrast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Modelo de panel</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171111T224657Z" creationid="usuario" creationdate="20171111T224657Z">
+        <seg>Model</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Resolución de pantalla</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171111T225826Z" creationid="usuario" creationdate="20171111T225826Z">
+        <seg>Resolution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Si</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171111T230443Z" creationid="usuario" creationdate="20171111T230443Z">
+        <seg>Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Tamaño de pantalla</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171110T221815Z" creationid="usuario" creationdate="20171110T221815Z">
+        <seg>Screen size</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ángulo de visión</seg>
+      </tuv>
+      <tuv lang="ES-US" changeid="usuario" changedate="20171112T210328Z" creationid="usuario" creationdate="20171112T210245Z">
+        <seg>Viewing Angle</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
